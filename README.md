@@ -16,6 +16,5 @@ week7: 在PyG和DGL上分别实现一个可以运行的demo
 
 week8: 阅读经典论文， 如GCN， GAT， HAN等
 
-**
 
 
